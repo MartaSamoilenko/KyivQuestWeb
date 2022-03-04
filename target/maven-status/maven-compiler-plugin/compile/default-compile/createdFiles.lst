@@ -1,0 +1,10 @@
+kyivQuestWeb\repository\UserRepository.class
+kyivQuestWeb\config\SecurityConfiguration.class
+kyivQuestWeb\service\UserService.class
+kyivQuestWeb\KyivQuestWebApplication.class
+kyivQuestWeb\controller\RegistrationController.class
+kyivQuestWeb\model\Checkpoint.class
+kyivQuestWeb\model\Route.class
+kyivQuestWeb\utils\HibernateUtil.class
+kyivQuestWeb\model\User.class
+kyivQuestWeb\service\IUserService.class
